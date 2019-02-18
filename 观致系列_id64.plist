@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>1115</string>
+		<key>initial</key>
+		<string>G</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>观致3</string>
+				<key>id</key>
+				<string>1116</string>
+				<key>imageFile</key>
+				<string>观致3_id1116.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1116.jpg</string>
+				<key>name</key>
+				<string>观致3</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>观致5</string>
+				<key>id</key>
+				<string>1119</string>
+				<key>imageFile</key>
+				<string>观致5_id1119.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1119.jpg</string>
+				<key>name</key>
+				<string>观致5</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>观致Model Young</string>
+				<key>id</key>
+				<string>42152</string>
+				<key>imageFile</key>
+				<string>观致Model Young_id42152.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/42152.jpg</string>
+				<key>name</key>
+				<string>Model Young</string>
+				<key>salestate</key>
+				<string>待销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>观致汽车</string>
+	</dict>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>45740</string>
+		<key>initial</key>
+		<string>G</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>观致3 EV</string>
+				<key>id</key>
+				<string>45741</string>
+				<key>imageFile</key>
+				<string>观致3 EV_id45741.jpg</string>
+				<key>logo</key>
+				<string></string>
+				<key>name</key>
+				<string>观致3 EV</string>
+				<key>salestate</key>
+				<string>待销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>观致新能源</string>
+	</dict>
+</array>
+</plist>

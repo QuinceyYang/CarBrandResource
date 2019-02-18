@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>1297</string>
+		<key>initial</key>
+		<string>H</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>途腾T1</string>
+				<key>id</key>
+				<string>1298</string>
+				<key>imageFile</key>
+				<string>途腾T1_id1298.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1298.jpg</string>
+				<key>name</key>
+				<string>途腾T1</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>途腾T2</string>
+				<key>id</key>
+				<string>1299</string>
+				<key>imageFile</key>
+				<string>途腾T2_id1299.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1299.JPG</string>
+				<key>name</key>
+				<string>途腾T2</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>途腾T3</string>
+				<key>id</key>
+				<string>1300</string>
+				<key>imageFile</key>
+				<string>途腾T3_id1300.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1300.JPG</string>
+				<key>name</key>
+				<string>途腾T3</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>恒天汽车</string>
+	</dict>
+</array>
+</plist>

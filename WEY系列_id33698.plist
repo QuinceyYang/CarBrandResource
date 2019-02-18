@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>33866</string>
+		<key>initial</key>
+		<string>W</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>WEY VV7</string>
+				<key>id</key>
+				<string>33867</string>
+				<key>imageFile</key>
+				<string>WEY VV7_id33867.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/33867.jpg</string>
+				<key>name</key>
+				<string>VV7</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>WEY VV5</string>
+				<key>id</key>
+				<string>33868</string>
+				<key>imageFile</key>
+				<string>WEY VV5_id33868.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/33868.jpg</string>
+				<key>name</key>
+				<string>VV5</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>WEY VV6</string>
+				<key>id</key>
+				<string>42213</string>
+				<key>imageFile</key>
+				<string>WEY VV6_id42213.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/42213.jpg</string>
+				<key>name</key>
+				<string>VV6</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>长城汽车</string>
+	</dict>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>42214</string>
+		<key>initial</key>
+		<string>W</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>WEY P8</string>
+				<key>id</key>
+				<string>42215</string>
+				<key>imageFile</key>
+				<string>WEY P8_id42215.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/42215.jpg</string>
+				<key>name</key>
+				<string>P8</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>WEY P8 GT</string>
+				<key>id</key>
+				<string>45787</string>
+				<key>imageFile</key>
+				<string>WEY P8 GT_id45787.jpg</string>
+				<key>logo</key>
+				<string></string>
+				<key>name</key>
+				<string>P8 GT</string>
+				<key>salestate</key>
+				<string>待销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>长城新能源</string>
+	</dict>
+</array>
+</plist>

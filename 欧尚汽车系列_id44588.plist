@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>44593</string>
+		<key>initial</key>
+		<string>O</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>科赛</string>
+				<key>id</key>
+				<string>42128</string>
+				<key>imageFile</key>
+				<string>科赛_id42128.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/42128.jpg</string>
+				<key>name</key>
+				<string>科赛</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>科尚</string>
+				<key>id</key>
+				<string>45791</string>
+				<key>imageFile</key>
+				<string>科尚_id45791.jpg</string>
+				<key>logo</key>
+				<string></string>
+				<key>name</key>
+				<string>科尚</string>
+				<key>salestate</key>
+				<string>待销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>长安汽车</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>41371</string>
+		<key>initial</key>
+		<string>H</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>华骐300E</string>
+				<key>id</key>
+				<string>41372</string>
+				<key>imageFile</key>
+				<string>华骐300E_id41372.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/41372.gif</string>
+				<key>name</key>
+				<string>300E</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>东风悦达起亚</string>
+	</dict>
+</array>
+</plist>

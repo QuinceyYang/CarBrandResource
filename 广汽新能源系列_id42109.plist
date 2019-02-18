@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>42221</string>
+		<key>initial</key>
+		<string>G</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>传祺GE3</string>
+				<key>id</key>
+				<string>40058</string>
+				<key>imageFile</key>
+				<string>传祺GE3_id40058.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/40058.jpg</string>
+				<key>name</key>
+				<string>GE3</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>传祺GS4 PHEV</string>
+				<key>id</key>
+				<string>40059</string>
+				<key>imageFile</key>
+				<string>传祺GS4 PHEV_id40059.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/40059.jpg</string>
+				<key>name</key>
+				<string>GS4 PHEV</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>传祺GA3S PHEV</string>
+				<key>id</key>
+				<string>40060</string>
+				<key>imageFile</key>
+				<string>传祺GA3S PHEV_id40060.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/40060.gif</string>
+				<key>name</key>
+				<string>GA3S PHEV</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>广汽新能源AION S</string>
+				<key>id</key>
+				<string>45789</string>
+				<key>imageFile</key>
+				<string>广汽新能源AION S_id45789.jpg</string>
+				<key>logo</key>
+				<string></string>
+				<key>name</key>
+				<string>AION S</string>
+				<key>salestate</key>
+				<string>待销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>广汽新能源</string>
+	</dict>
+</array>
+</plist>

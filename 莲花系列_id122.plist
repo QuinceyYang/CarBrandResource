@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>1708</string>
+		<key>initial</key>
+		<string>L</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>莲花L3</string>
+				<key>id</key>
+				<string>1711</string>
+				<key>imageFile</key>
+				<string>莲花L3_id1711.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1711.jpg</string>
+				<key>name</key>
+				<string>L3</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>莲花L5</string>
+				<key>id</key>
+				<string>1714</string>
+				<key>imageFile</key>
+				<string>莲花L5_id1714.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1714.JPG</string>
+				<key>name</key>
+				<string>L5</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>竞悦</string>
+				<key>id</key>
+				<string>1717</string>
+				<key>imageFile</key>
+				<string>竞悦_id1717.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1717.jpg</string>
+				<key>name</key>
+				<string>竞悦</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>莲花</string>
+	</dict>
+</array>
+</plist>

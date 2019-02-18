@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>1729</string>
+		<key>initial</key>
+		<string>L</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>理念S1</string>
+				<key>id</key>
+				<string>1730</string>
+				<key>imageFile</key>
+				<string>理念S1_id1730.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1730.jpg</string>
+				<key>name</key>
+				<string>S1</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>广汽本田</string>
+	</dict>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>45758</string>
+		<key>initial</key>
+		<string>L</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>理念VE-1</string>
+				<key>id</key>
+				<string>45759</string>
+				<key>imageFile</key>
+				<string>理念VE-1_id45759.jpg</string>
+				<key>logo</key>
+				<string></string>
+				<key>name</key>
+				<string>理念VE-1</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>广汽本田新能源</string>
+	</dict>
+</array>
+</plist>

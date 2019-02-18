@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>1559</string>
+		<key>initial</key>
+		<string>K</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>X-BOW</string>
+				<key>id</key>
+				<string>1560</string>
+				<key>imageFile</key>
+				<string>X-BOW_id1560.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1560.JPG</string>
+				<key>name</key>
+				<string>X-BOW</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>KTM</string>
+	</dict>
+</array>
+</plist>

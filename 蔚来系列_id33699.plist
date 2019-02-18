@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>33869</string>
+		<key>initial</key>
+		<string>W</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>蔚来EP9</string>
+				<key>id</key>
+				<string>33870</string>
+				<key>imageFile</key>
+				<string>蔚来EP9_id33870.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/33870.jpg</string>
+				<key>name</key>
+				<string>EP9</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>蔚来ES8</string>
+				<key>id</key>
+				<string>40171</string>
+				<key>imageFile</key>
+				<string>蔚来ES8_id40171.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/40171.jpg</string>
+				<key>name</key>
+				<string>ES8</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>蔚来ES6</string>
+				<key>id</key>
+				<string>45788</string>
+				<key>imageFile</key>
+				<string>蔚来ES6_id45788.jpg</string>
+				<key>logo</key>
+				<string></string>
+				<key>name</key>
+				<string>ES6</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>蔚来汽车</string>
+	</dict>
+</array>
+</plist>

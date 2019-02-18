@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>45804</string>
+		<key>initial</key>
+		<string>K</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>卡尔曼</string>
+				<key>id</key>
+				<string>45805</string>
+				<key>imageFile</key>
+				<string>卡尔曼_id45805.jpg</string>
+				<key>logo</key>
+				<string></string>
+				<key>name</key>
+				<string>卡尔曼</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>进口卡尔曼</string>
+	</dict>
+</array>
+</plist>

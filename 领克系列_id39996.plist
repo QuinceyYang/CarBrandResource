@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>40187</string>
+		<key>initial</key>
+		<string>L</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>领克01</string>
+				<key>id</key>
+				<string>40188</string>
+				<key>imageFile</key>
+				<string>领克01_id40188.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/40188.JPG</string>
+				<key>name</key>
+				<string>01</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>领克02</string>
+				<key>id</key>
+				<string>42217</string>
+				<key>imageFile</key>
+				<string>领克02_id42217.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/42217.jpg</string>
+				<key>name</key>
+				<string>02</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>领克03</string>
+				<key>id</key>
+				<string>42218</string>
+				<key>imageFile</key>
+				<string>领克03_id42218.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/42218.jpg</string>
+				<key>name</key>
+				<string>03</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>领克汽车</string>
+	</dict>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>44747</string>
+		<key>initial</key>
+		<string>L</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>领克01 PHEV</string>
+				<key>id</key>
+				<string>44748</string>
+				<key>imageFile</key>
+				<string>领克01 PHEV_id44748.jpg</string>
+				<key>logo</key>
+				<string></string>
+				<key>name</key>
+				<string>01 PHEV</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>领克汽车新能源</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>45806</string>
+		<key>initial</key>
+		<string>L</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>领途E行</string>
+				<key>id</key>
+				<string>45807</string>
+				<key>imageFile</key>
+				<string>领途E行_id45807.jpg</string>
+				<key>logo</key>
+				<string></string>
+				<key>name</key>
+				<string>E行</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>领途K-ONE</string>
+				<key>id</key>
+				<string>45808</string>
+				<key>imageFile</key>
+				<string>领途K-ONE_id45808.jpg</string>
+				<key>logo</key>
+				<string></string>
+				<key>name</key>
+				<string>K-ONE</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>领途汽车</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>2166</string>
+		<key>initial</key>
+		<string>T</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>腾势</string>
+				<key>id</key>
+				<string>2167</string>
+				<key>imageFile</key>
+				<string>腾势_id2167.jpg</string>
+				<key>logo</key>
+				<string></string>
+				<key>name</key>
+				<string>腾势</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>腾势汽车</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>45811</string>
+		<key>initial</key>
+		<string>N</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>哪吒N01</string>
+				<key>id</key>
+				<string>45812</string>
+				<key>imageFile</key>
+				<string>哪吒N01_id45812.jpg</string>
+				<key>logo</key>
+				<string></string>
+				<key>name</key>
+				<string>哪吒N01</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>合众新能源</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>33875</string>
+		<key>initial</key>
+		<string>A</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>ALPINA B4 Bi-Turbo</string>
+				<key>id</key>
+				<string>33876</string>
+				<key>imageFile</key>
+				<string>ALPINA B4 Bi-Turbo_id33876.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/33876.jpg</string>
+				<key>name</key>
+				<string>B4 Bi-Turbo</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>进口ALPINA</string>
+	</dict>
+</array>
+</plist>

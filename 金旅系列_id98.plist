@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>1468</string>
+		<key>initial</key>
+		<string>J</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>金旅海狮</string>
+				<key>id</key>
+				<string>1469</string>
+				<key>imageFile</key>
+				<string>金旅海狮_id1469.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1469.jpg</string>
+				<key>name</key>
+				<string>金旅海狮</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>金旅客车系列</string>
+				<key>id</key>
+				<string>1470</string>
+				<key>imageFile</key>
+				<string>金旅客车系列_id1470.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1470.png</string>
+				<key>name</key>
+				<string>金旅客车系列</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>考斯特</string>
+				<key>id</key>
+				<string>1471</string>
+				<key>imageFile</key>
+				<string>考斯特_id1471.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1471.jpg</string>
+				<key>name</key>
+				<string>考斯特</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>金旅客车</string>
+	</dict>
+</array>
+</plist>

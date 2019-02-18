@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>40185</string>
+		<key>initial</key>
+		<string>J</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>君马S70</string>
+				<key>id</key>
+				<string>40186</string>
+				<key>imageFile</key>
+				<string>君马S70_id40186.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/40186.gif</string>
+				<key>name</key>
+				<string>S70</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>美图3</string>
+				<key>id</key>
+				<string>41366</string>
+				<key>imageFile</key>
+				<string>美图3_id41366.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/41366.gif</string>
+				<key>name</key>
+				<string>美图3</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>君马MEET 5</string>
+				<key>id</key>
+				<string>42216</string>
+				<key>imageFile</key>
+				<string>君马MEET 5_id42216.jpg</string>
+				<key>logo</key>
+				<string></string>
+				<key>name</key>
+				<string>MEET 5</string>
+				<key>salestate</key>
+				<string>待销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>赛克5</string>
+				<key>id</key>
+				<string>44746</string>
+				<key>imageFile</key>
+				<string>赛克5_id44746.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/44746.jpg</string>
+				<key>name</key>
+				<string>赛克5</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>君马汽车</string>
+	</dict>
+</array>
+</plist>

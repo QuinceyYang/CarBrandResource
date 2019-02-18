@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>1802</string>
+		<key>initial</key>
+		<string>M</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>MINI CABRIO</string>
+				<key>id</key>
+				<string>1803</string>
+				<key>imageFile</key>
+				<string>MINI CABRIO_id1803.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1803.jpg</string>
+				<key>name</key>
+				<string>CABRIO</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>MINI CLUBMAN</string>
+				<key>id</key>
+				<string>1804</string>
+				<key>imageFile</key>
+				<string>MINI CLUBMAN_id1804.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1804.jpg</string>
+				<key>name</key>
+				<string>CLUBMAN</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>MINI COUNTRYMAN</string>
+				<key>id</key>
+				<string>1805</string>
+				<key>imageFile</key>
+				<string>MINI COUNTRYMAN_id1805.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1805.jpg</string>
+				<key>name</key>
+				<string>COUNTRYMAN</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>MINI COUPE</string>
+				<key>id</key>
+				<string>1806</string>
+				<key>imageFile</key>
+				<string>MINI COUPE_id1806.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1806.jpg</string>
+				<key>name</key>
+				<string>COUPE</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>MINI</string>
+				<key>id</key>
+				<string>1807</string>
+				<key>imageFile</key>
+				<string>MINI_id1807.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1807.jpg</string>
+				<key>name</key>
+				<string>MINI</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>MINI PACEMAN</string>
+				<key>id</key>
+				<string>1809</string>
+				<key>imageFile</key>
+				<string>MINI PACEMAN_id1809.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1809.jpg</string>
+				<key>name</key>
+				<string>PACEMAN</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>MINI ROADSTER</string>
+				<key>id</key>
+				<string>1810</string>
+				<key>imageFile</key>
+				<string>MINI ROADSTER_id1810.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1810.jpg</string>
+				<key>name</key>
+				<string>ROADSTER</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>进口MINI</string>
+	</dict>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>1811</string>
+		<key>initial</key>
+		<string>M</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>MINI JCW CLUBMAN</string>
+				<key>id</key>
+				<string>1812</string>
+				<key>imageFile</key>
+				<string>MINI JCW CLUBMAN_id1812.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1812.jpg</string>
+				<key>name</key>
+				<string>JCW CLUBMAN</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>MINI JCW COUNTRYMAN</string>
+				<key>id</key>
+				<string>1813</string>
+				<key>imageFile</key>
+				<string>MINI JCW COUNTRYMAN_id1813.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1813.JPG</string>
+				<key>name</key>
+				<string>JCW COUNTRYMAN</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>MINI JCW COUPE</string>
+				<key>id</key>
+				<string>1814</string>
+				<key>imageFile</key>
+				<string>MINI JCW COUPE_id1814.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1814.JPG</string>
+				<key>name</key>
+				<string>JCW COUPE</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>MINI JCW</string>
+				<key>id</key>
+				<string>1815</string>
+				<key>imageFile</key>
+				<string>MINI JCW_id1815.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1815.jpg</string>
+				<key>name</key>
+				<string>JCW</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>JCW PACEMAN</string>
+				<key>id</key>
+				<string>1816</string>
+				<key>imageFile</key>
+				<string>JCW PACEMAN_id1816.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1816.jpg</string>
+				<key>name</key>
+				<string>JCW PACEMAN</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>进口MINI JCW</string>
+	</dict>
+</array>
+</plist>

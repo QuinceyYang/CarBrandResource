@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>2113</string>
+		<key>initial</key>
+		<string>S</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>fortwo</string>
+				<key>id</key>
+				<string>2114</string>
+				<key>imageFile</key>
+				<string>fortwo_id2114.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/2114.jpg</string>
+				<key>name</key>
+				<string>fortwo</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>forfour</string>
+				<key>id</key>
+				<string>2116</string>
+				<key>imageFile</key>
+				<string>forfour_id2116.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/2116.jpg</string>
+				<key>name</key>
+				<string>forfour</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>进口smart</string>
+	</dict>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>40133</string>
+		<key>initial</key>
+		<string>S</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>fortwo 电动</string>
+				<key>id</key>
+				<string>2115</string>
+				<key>imageFile</key>
+				<string>fortwo 电动_id2115.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/2115.jpg</string>
+				<key>name</key>
+				<string>fortwo 电动</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>进口smart新能源</string>
+	</dict>
+</array>
+</plist>

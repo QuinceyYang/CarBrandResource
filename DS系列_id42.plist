@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>833</string>
+		<key>initial</key>
+		<string>D</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>DS 5</string>
+				<key>id</key>
+				<string>834</string>
+				<key>imageFile</key>
+				<string>DS 5_id834.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/834.jpg</string>
+				<key>name</key>
+				<string>DS 5</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>DS 5LS</string>
+				<key>id</key>
+				<string>835</string>
+				<key>imageFile</key>
+				<string>DS 5LS_id835.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/835.jpg</string>
+				<key>name</key>
+				<string>DS 5LS</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>DS 6</string>
+				<key>id</key>
+				<string>836</string>
+				<key>imageFile</key>
+				<string>DS 6_id836.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/836.jpg</string>
+				<key>name</key>
+				<string>DS 6</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>DS 4S</string>
+				<key>id</key>
+				<string>837</string>
+				<key>imageFile</key>
+				<string>DS 4S_id837.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/837.JPG</string>
+				<key>name</key>
+				<string>DS 4S</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>DS 7</string>
+				<key>id</key>
+				<string>40046</string>
+				<key>imageFile</key>
+				<string>DS 7_id40046.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/40046.jpg</string>
+				<key>name</key>
+				<string>DS 7</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>长安标致雪铁龙</string>
+	</dict>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>838</string>
+		<key>initial</key>
+		<string>D</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>DS 3</string>
+				<key>id</key>
+				<string>839</string>
+				<key>imageFile</key>
+				<string>DS 3_id839.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/839.jpg</string>
+				<key>name</key>
+				<string>DS 3</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>DS 4</string>
+				<key>id</key>
+				<string>840</string>
+				<key>imageFile</key>
+				<string>DS 4_id840.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/840.jpg</string>
+				<key>name</key>
+				<string>DS 4</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>DS 5(进口)</string>
+				<key>id</key>
+				<string>841</string>
+				<key>imageFile</key>
+				<string>DS 5(进口)_id841.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/841.png</string>
+				<key>name</key>
+				<string>DS 5</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>进口DS</string>
+	</dict>
+</array>
+</plist>

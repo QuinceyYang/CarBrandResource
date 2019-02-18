@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>1845</string>
+		<key>initial</key>
+		<string>N</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>大7 MPV</string>
+				<key>id</key>
+				<string>1846</string>
+				<key>imageFile</key>
+				<string>大7 MPV_id1846.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1846.jpg</string>
+				<key>name</key>
+				<string>大7 MPV</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>大7 SUV</string>
+				<key>id</key>
+				<string>1847</string>
+				<key>imageFile</key>
+				<string>大7 SUV_id1847.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1847.jpg</string>
+				<key>name</key>
+				<string>大7 SUV</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>MASTER CEO</string>
+				<key>id</key>
+				<string>1848</string>
+				<key>imageFile</key>
+				<string>MASTER CEO_id1848.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1848.jpg</string>
+				<key>name</key>
+				<string>MASTER CEO</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>纳5</string>
+				<key>id</key>
+				<string>1849</string>
+				<key>imageFile</key>
+				<string>纳5_id1849.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1849.jpg</string>
+				<key>name</key>
+				<string>纳5</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>优6 SUV</string>
+				<key>id</key>
+				<string>1850</string>
+				<key>imageFile</key>
+				<string>优6 SUV_id1850.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1850.jpg</string>
+				<key>name</key>
+				<string>优6 SUV</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>锐3</string>
+				<key>id</key>
+				<string>1851</string>
+				<key>imageFile</key>
+				<string>锐3_id1851.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1851.jpg</string>
+				<key>name</key>
+				<string>锐3</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>U5 SUV</string>
+				<key>id</key>
+				<string>40112</string>
+				<key>imageFile</key>
+				<string>U5 SUV_id40112.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/40112.jpg</string>
+				<key>name</key>
+				<string>U5 SUV</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>东风裕隆</string>
+	</dict>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>45427</string>
+		<key>initial</key>
+		<string>N</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>纳智捷U5 EV</string>
+				<key>id</key>
+				<string>45428</string>
+				<key>imageFile</key>
+				<string>纳智捷U5 EV_id45428.jpg</string>
+				<key>logo</key>
+				<string></string>
+				<key>name</key>
+				<string>U5 EV</string>
+				<key>salestate</key>
+				<string>待销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>东风裕隆新能源</string>
+	</dict>
+</array>
+</plist>

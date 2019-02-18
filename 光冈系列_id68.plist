@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>1157</string>
+		<key>initial</key>
+		<string>G</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>大蛇(进口)</string>
+				<key>id</key>
+				<string>1158</string>
+				<key>imageFile</key>
+				<string>大蛇(进口)_id1158.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1158.jpg</string>
+				<key>name</key>
+				<string>大蛇</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>嘉路(进口)</string>
+				<key>id</key>
+				<string>1159</string>
+				<key>imageFile</key>
+				<string>嘉路(进口)_id1159.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1159.jpg</string>
+				<key>name</key>
+				<string>嘉路</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>女王(进口)</string>
+				<key>id</key>
+				<string>1160</string>
+				<key>imageFile</key>
+				<string>女王(进口)_id1160.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1160.jpg</string>
+				<key>name</key>
+				<string>女王</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>进口光冈</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>40197</string>
+		<key>initial</key>
+		<string>Y</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>云度π1</string>
+				<key>id</key>
+				<string>40198</string>
+				<key>imageFile</key>
+				<string>云度π1_id40198.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/40198.jpg</string>
+				<key>name</key>
+				<string>云度π1</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>云度π3</string>
+				<key>id</key>
+				<string>40199</string>
+				<key>imageFile</key>
+				<string>云度π3_id40199.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/40199.gif</string>
+				<key>name</key>
+				<string>云度π3</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>云度π7</string>
+				<key>id</key>
+				<string>44305</string>
+				<key>imageFile</key>
+				<string>云度π7_id44305.jpg</string>
+				<key>logo</key>
+				<string></string>
+				<key>name</key>
+				<string>云度π7</string>
+				<key>salestate</key>
+				<string>待销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>云度新能源</string>
+	</dict>
+</array>
+</plist>

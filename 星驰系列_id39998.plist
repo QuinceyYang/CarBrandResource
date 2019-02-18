@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>40193</string>
+		<key>initial</key>
+		<string>X</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>星驰T6凯路威</string>
+				<key>id</key>
+				<string>40194</string>
+				<key>imageFile</key>
+				<string>星驰T6凯路威_id40194.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/40194.gif</string>
+				<key>name</key>
+				<string>T6凯路威</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>星驰V级</string>
+				<key>id</key>
+				<string>40195</string>
+				<key>imageFile</key>
+				<string>星驰V级_id40195.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/40195.gif</string>
+				<key>name</key>
+				<string>星驰V级</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>星驰斯宾特</string>
+				<key>id</key>
+				<string>40196</string>
+				<key>imageFile</key>
+				<string>星驰斯宾特_id40196.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/40196.gif</string>
+				<key>name</key>
+				<string>星驰斯宾特</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>星驰汽车</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>33864</string>
+		<key>initial</key>
+		<string>S</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>SWM斯威X7</string>
+				<key>id</key>
+				<string>33865</string>
+				<key>imageFile</key>
+				<string>SWM斯威X7_id33865.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/33865.jpg</string>
+				<key>name</key>
+				<string>X7</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>SWM斯威X3</string>
+				<key>id</key>
+				<string>40170</string>
+				<key>imageFile</key>
+				<string>SWM斯威X3_id40170.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/40170.jpg</string>
+				<key>name</key>
+				<string>X3</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>SWM斯威G01</string>
+				<key>id</key>
+				<string>42212</string>
+				<key>imageFile</key>
+				<string>SWM斯威G01_id42212.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/42212.jpg</string>
+				<key>name</key>
+				<string>G01</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>SWM斯威汽车</string>
+	</dict>
+</array>
+</plist>

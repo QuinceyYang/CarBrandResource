@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>45815</string>
+		<key>initial</key>
+		<string>X</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>星途-TX</string>
+				<key>id</key>
+				<string>42184</string>
+				<key>imageFile</key>
+				<string>星途-TX_id42184.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/42184.jpg</string>
+				<key>name</key>
+				<string>星途-TX</string>
+				<key>salestate</key>
+				<string>待销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>星途-LX</string>
+				<key>id</key>
+				<string>45816</string>
+				<key>imageFile</key>
+				<string>星途-LX_id45816.jpg</string>
+				<key>logo</key>
+				<string></string>
+				<key>name</key>
+				<string>星途-LX</string>
+				<key>salestate</key>
+				<string>待销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>星途</string>
+	</dict>
+</array>
+</plist>

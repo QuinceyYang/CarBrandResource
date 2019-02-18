@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>1545</string>
+		<key>initial</key>
+		<string>K</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>科尼赛克Agera</string>
+				<key>id</key>
+				<string>1546</string>
+				<key>imageFile</key>
+				<string>科尼赛克Agera_id1546.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1546.jpg</string>
+				<key>name</key>
+				<string>Agera</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>科尼赛克CCR</string>
+				<key>id</key>
+				<string>1547</string>
+				<key>imageFile</key>
+				<string>科尼赛克CCR_id1547.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1547.jpg</string>
+				<key>name</key>
+				<string>CCR</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>进口科尼赛克</string>
+	</dict>
+</array>
+</plist>

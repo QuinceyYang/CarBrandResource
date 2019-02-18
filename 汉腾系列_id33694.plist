@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>33857</string>
+		<key>initial</key>
+		<string>H</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>汉腾X7</string>
+				<key>id</key>
+				<string>33858</string>
+				<key>imageFile</key>
+				<string>汉腾X7_id33858.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/33858.JPG</string>
+				<key>name</key>
+				<string>X7</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>汉腾X5</string>
+				<key>id</key>
+				<string>33859</string>
+				<key>imageFile</key>
+				<string>汉腾X5_id33859.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/33859.JPG</string>
+				<key>name</key>
+				<string>X5</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>汉腾</string>
+	</dict>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>42210</string>
+		<key>initial</key>
+		<string>H</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>汉腾X7 PHEV</string>
+				<key>id</key>
+				<string>42211</string>
+				<key>imageFile</key>
+				<string>汉腾X7 PHEV_id42211.jpg</string>
+				<key>logo</key>
+				<string></string>
+				<key>name</key>
+				<string>X7 PHEV</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>汉腾X5 EV</string>
+				<key>id</key>
+				<string>44738</string>
+				<key>imageFile</key>
+				<string>汉腾X5 EV_id44738.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/44738.jpg</string>
+				<key>name</key>
+				<string>X5 EV</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>幸福e+</string>
+				<key>id</key>
+				<string>45786</string>
+				<key>imageFile</key>
+				<string>幸福e+_id45786.jpg</string>
+				<key>logo</key>
+				<string></string>
+				<key>name</key>
+				<string>幸福e+</string>
+				<key>salestate</key>
+				<string>待销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>汉腾新能源</string>
+	</dict>
+</array>
+</plist>

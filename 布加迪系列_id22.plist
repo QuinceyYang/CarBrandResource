@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>589</string>
+		<key>initial</key>
+		<string>B</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>威航</string>
+				<key>id</key>
+				<string>590</string>
+				<key>imageFile</key>
+				<string>威航_id590.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/590.jpg</string>
+				<key>name</key>
+				<string>威航</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>Divo</string>
+				<key>id</key>
+				<string>45702</string>
+				<key>imageFile</key>
+				<string>Divo_id45702.jpg</string>
+				<key>logo</key>
+				<string></string>
+				<key>name</key>
+				<string>Divo</string>
+				<key>salestate</key>
+				<string>待销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>进口布加迪</string>
+	</dict>
+</array>
+</plist>

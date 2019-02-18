@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>2142</string>
+		<key>initial</key>
+		<string>S</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>萨博9-3</string>
+				<key>id</key>
+				<string>2144</string>
+				<key>imageFile</key>
+				<string>萨博9-3_id2144.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/2144.jpg</string>
+				<key>name</key>
+				<string>9-3</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>萨博9-5</string>
+				<key>id</key>
+				<string>2145</string>
+				<key>imageFile</key>
+				<string>萨博9-5_id2145.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/2145.jpg</string>
+				<key>name</key>
+				<string>9-5</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>进口萨博</string>
+	</dict>
+</array>
+</plist>

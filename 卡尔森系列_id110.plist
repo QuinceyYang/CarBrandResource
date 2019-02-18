@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>1555</string>
+		<key>initial</key>
+		<string>K</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>卡尔森C25</string>
+				<key>id</key>
+				<string>1556</string>
+				<key>imageFile</key>
+				<string>卡尔森C25_id1556.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1556.jpg</string>
+				<key>name</key>
+				<string>C25</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>卡尔森 GL级</string>
+				<key>id</key>
+				<string>1557</string>
+				<key>imageFile</key>
+				<string>卡尔森 GL级_id1557.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1557.jpg</string>
+				<key>name</key>
+				<string>GL级</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>卡尔森 S级</string>
+				<key>id</key>
+				<string>1558</string>
+				<key>imageFile</key>
+				<string>卡尔森 S级_id1558.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1558.jpg</string>
+				<key>name</key>
+				<string>S级</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>进口卡尔森</string>
+	</dict>
+</array>
+</plist>

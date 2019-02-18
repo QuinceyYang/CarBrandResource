@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>1552</string>
+		<key>initial</key>
+		<string>Q</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>全球鹰EX3</string>
+				<key>id</key>
+				<string>44725</string>
+				<key>imageFile</key>
+				<string>全球鹰EX3_id44725.jpg</string>
+				<key>logo</key>
+				<string></string>
+				<key>name</key>
+				<string>全球鹰EX3</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>全球鹰K27</string>
+				<key>id</key>
+				<string>45757</string>
+				<key>imageFile</key>
+				<string>全球鹰K27_id45757.jpg</string>
+				<key>logo</key>
+				<string></string>
+				<key>name</key>
+				<string>全球鹰K27</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>康迪全球鹰</string>
+	</dict>
+</array>
+</plist>

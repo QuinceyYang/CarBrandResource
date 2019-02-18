@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>882</string>
+		<key>initial</key>
+		<string>D</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>风度MX6</string>
+				<key>id</key>
+				<string>883</string>
+				<key>imageFile</key>
+				<string>风度MX6_id883.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/883.jpg</string>
+				<key>name</key>
+				<string>MX6</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>风度MX5</string>
+				<key>id</key>
+				<string>33749</string>
+				<key>imageFile</key>
+				<string>风度MX5_id33749.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/33749.jpg</string>
+				<key>name</key>
+				<string>MX5</string>
+				<key>salestate</key>
+				<string>在销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>风度MX3</string>
+				<key>id</key>
+				<string>40048</string>
+				<key>imageFile</key>
+				<string>风度MX3_id40048.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/40048.gif</string>
+				<key>name</key>
+				<string>MX3</string>
+				<key>salestate</key>
+				<string>待销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>东风风度</string>
+	</dict>
+</array>
+</plist>

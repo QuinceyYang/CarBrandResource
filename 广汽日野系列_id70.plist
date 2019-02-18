@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fullname</key>
+		<string></string>
+		<key>id</key>
+		<string>1163</string>
+		<key>initial</key>
+		<string>G</string>
+		<key>list</key>
+		<array>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>270Y系列</string>
+				<key>id</key>
+				<string>1164</string>
+				<key>imageFile</key>
+				<string>270Y系列_id1164.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1164.jpg</string>
+				<key>name</key>
+				<string>270Y系列</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>300J系列</string>
+				<key>id</key>
+				<string>1165</string>
+				<key>imageFile</key>
+				<string>300J系列_id1165.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1165.jpg</string>
+				<key>name</key>
+				<string>300J系列</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+			<dict>
+				<key>depth</key>
+				<string>3</string>
+				<key>fullname</key>
+				<string>320D系列</string>
+				<key>id</key>
+				<string>1166</string>
+				<key>imageFile</key>
+				<string>320D系列_id1166.jpg</string>
+				<key>logo</key>
+				<string>http://pic1.jisuapi.cn/car/static/images/logo/300/1166.jpg</string>
+				<key>name</key>
+				<string>320D系列</string>
+				<key>salestate</key>
+				<string>停销</string>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>广汽日野</string>
+	</dict>
+</array>
+</plist>
